@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Examples</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- MainActivity strings -->
+    <string name="activity_main_title">Android examples</string>
+    <string name="activity_main_swipe_button">Swipe in ABS</string>
+
+    <!-- SwipeActivity strings -->
+    <string name="activity_swipe_title">Swipe hello world</string>
+
+    <!-- MyFragment strings -->
+    <string name="fragment_myfragment_1_title">Hello</string>
+    <string name="fragment_myfragment_1_label">Hello</string>
+    <string name="fragment_myfragment_1_title">World</string>
+    <string name="fragment_myfragment_2_label">World</string>
+
+</resources>
